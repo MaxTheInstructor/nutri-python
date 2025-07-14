@@ -1,0 +1,111 @@
+[
+    {
+        "name": "Куриная грудка",
+        "nutrients": {
+        "calories": 165,
+        "protein": 31,
+        "fat": 3.6,
+        "carbs": 0.0
+      }
+    },
+    {
+        "name": "Овсяные хлопья",
+        "form": "сухие",
+        "nutrients": {
+            "calories": 389,
+            "protein": 16.9,
+            "fat": 6.9,
+            "carbs": 69.3
+        }
+    },
+    {
+        "name": "Яйцо куриное",
+        "nutrients": {
+            "calories": 143,
+            "protein": 12.6,
+            "fat": 9.5,
+            "carbs": 1.1
+        }
+    },
+    {
+        "name": "Лосось",
+        "nutrients": {
+            "calories": 208,
+            "protein": 20.4,
+            "fat": 13.4,
+            "carbs": 0
+        }
+    },
+    {
+        "name": "Масло растительное",
+        "nutrients": {
+            "calories": 884,
+            "protein": 0,
+            "fat": 100,
+            "carbs": 0
+        }
+    },
+    {
+        "name": "Масло сливочное",
+        "nutrients": {
+            "calories": 717,
+            "protein": 0.85,
+            "fat": 81,
+            "carbs": 0.1
+        }
+    },
+    {
+        "name": "Хлеб пшеничный",
+        "nutrients": {
+            "calories": 265,
+            "protein": 8.1,
+            "fat": 3.3,
+            "carbs": 49
+        }
+    },
+    {
+        "name": "Картофель отварной",
+        "nutrients": {
+            "calories": 87,
+            "protein": 2.0,
+            "fat": 0.1,
+            "carbs": 20.1
+        }
+    },
+    {
+        "name": "Йогурт (3.2% жирности)",
+        "nutrients": {
+            "calories": 61,
+            "protein": 3.5,
+            "fat": 3.2,
+            "carbs": 4.7
+        }
+    },
+    {
+        "name": "Огурцы",
+        "nutrients": {
+            "calories": 15,
+            "protein": 0.8,
+            "fat": 0.1,
+            "carbs": 3.6
+        }
+    },
+    {
+        "name": "Помидоры",
+        "nutrients": {
+            "calories": 18,
+            "protein": 0.9,
+            "fat": 0.2,
+            "carbs": 3.9
+        }
+    },
+    {
+        "name": "Яблоки",
+        "nutrients": {
+            "calories": 52,
+            "protein": 0.3,
+            "fat": 0.2,
+            "carbs": 13.8
+        }
+    }
+]
